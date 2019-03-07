@@ -1,8 +1,11 @@
+> "We have a number of transcripts that need to get processed for various linguistic data
+
 # Goals:
 ## 1. Create workflow to process transcripts into usable data
 ## 2. Create workflow for non-tech savy person to analyze those transcripts/data
 
-> "We have a number of transcripts that need to get processed for various linguistic data
+
+
 
 __Format of transcript files:__
     - `SUBJECT_trans_final.txt`
