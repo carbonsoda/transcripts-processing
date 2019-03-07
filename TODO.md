@@ -1,5 +1,6 @@
-## **__Goal 1:__** Create workflow to process transcripts into usable data
-## **__Goal 2:__** Create workflow for non-tech savy person to analyze those transcripts/data
+# Goals:
+    ## 1. Create workflow to process transcripts into usable data
+    ## 2. Create workflow for non-tech savy person to analyze those transcripts/data
 
 > "We have a number of transcripts that need to get processed for various linguistic data
 
@@ -9,28 +10,29 @@ __Format of transcript files:__
     - File path: `Q:\PSY-LAB\Suanda\Rollins\Nmos\SUBJECT\Data\Transcriptions`
     
 
-### Needed Data:
-  1. # of utterances in transcript
-  2. # of words in transcript
-  3. # of word-types in transcripts 
+## Needed Data:
+  ### 1. of utterances in transcript
+  ### 2. of words in transcript
+  ### 3. of word-types in transcripts 
       - aka # of different words
       - "types and tokens"
-  4. Timestamps of each type
-  5. Also it should create list of subjects ("sublist_9mos"):
+  ### 4. Timestamps of each type
+  ### 5. Also it should create list of subjects (`sublist_9mos`):
       - List could be in another file, and the data is structured like a node (hash kinda I guess?), such that `subject` has:
-          1. Identifier ("Sub") (Also number? it's labeled as "No")
-          2. Age ("Folder")
-          3. transcript data (another node, contains points 1,2, and 3)
+          1. Identifier (`Sub`) (Also number? it's labeled as "No")
+          2. Age (`Folder`)
+          3. transcript data (another node, contains points 1, 2, and 3)
  
  
 ### For Goal 2:
   Feature: can type in subject + filters as needed
       > exports the processed data to a log file (perhaps csv? need to think of exact details)
-      
-## _Brainstorming_
+
+---
+# _Brainstorming_
 Having an application would be best to go with goal 2, however it would be good to just focus on something modular working like goal 1 that can run in terminal, before creating the user-end stuff
 
-When it comes time to user-end:
+### When it comes time to user-end:
 - First-Time Setup area
     - Directions
     - Error message directions
