@@ -11,9 +11,9 @@ __Format of transcript files:__
     
 
 ## Needed Data:
-  ### 1. of utterances in transcript
-  ### 2. of words in transcript
-  ### 3. of word-types in transcripts 
+  ### 1. # of utterances in transcript
+  ### 2. # of words in transcript
+  ### 3. # of word-types in transcripts:
       - aka # of different words
       - "types and tokens"
   ### 4. Timestamps of each type
@@ -23,14 +23,18 @@ __Format of transcript files:__
           2. Age (`Folder`)
           3. transcript data (another node, contains points 1, 2, and 3)
  
- 
+## For Goal 1:
+    Order of priorities (what to design/create):
+        1. Take in the file and return duplicate of it (make sure can just input file at all)
+        2. 
 ### For Goal 2:
   Feature: can type in subject + filters as needed
       > exports the processed data to a log file (perhaps csv? need to think of exact details)
 
 ---
 # _Brainstorming_
-Having an application would be best to go with goal 2, however it would be good to just focus on something modular working like goal 1 that can run in terminal, before creating the user-end stuff
+Having an application would be best to go with goal 2, however it would be good to just focus on something modular working like goal 1 that can run in terminal, before creating the user-end stuff.
+When it comes to sorting through 
 
 ### When it comes time to user-end:
 - First-Time Setup area
@@ -66,5 +70,6 @@ Having an application would be best to go with goal 2, however it would be good 
         2. Run through analysis functions
  - **Analysis:**
     - IF (`run on ALL`):
-        - IF (`no_specified_age`): *ie first time run or want overall average* (`check_all_existing`) = False: *check_all_existing sees if all parts
+        - IF (`no_specified_age`): *ie first time run or want overall average* (`check_all_existing`) = False: 
+            > *check_all_existing sees if all parts have files, if not 
     - IF 
