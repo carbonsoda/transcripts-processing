@@ -19,6 +19,7 @@ __Format of transcript files:__
   ### 3. # of word-types in transcripts:
       - aka # of different words
       - "types and tokens"
+      - DO include if it's a verb, noun, etc. as a property as well. (helps for task 2)
   ### 4. Timestamps of each type
   ### 5. Also it should create list of subjects (`sublist_9mos`):
       - List could be in another file, and the data is structured like a node (hash kinda I guess?), such that `subject` has:
@@ -76,3 +77,22 @@ When it comes to sorting through
         - IF (`no_specified_age`): *ie first time run or want overall average* (`check_all_existing`) = False: 
             > *check_all_existing sees if all parts have files, if not 
     - IF 
+
+
+# Task 2:
+> Related to the above, task 2 is to create a dictionary of words in all transcripts. The lab will use this document to create documentation of the property of each word. There will be a seperate document for each age of aquisition.
+
+1. First create a modular one for 9mos. 
+2. The first time around will have ie "dog" and "dogs" seperate
+    - 2nd time some care will be needed to swap words with root types
+        - This will need the use the word's tag (ie `[v] [n] [adj]` *verb noun adjective*) to determine
+        - Some care and maybe human word will be needed to generate base words, such as `fish` used as a noun vs verb
+
+## Task 2.5:
+> This is a third task that ties in with the 2nd, "create a program that you can enter a word and the output is a detailed documentation of who said the word and when/timestamp.
+
+3. Similar to the "age of aquisition" wording in 2, I should consider if another function is needed regarding that:
+    - f(x) would do the same as 2, except would denote the first time it's acquired (and by how many subj)
+        - For efficency, would use what's already generated in task 2 (or 1 sorta) vs entire scan through
+    - Also ask about a threshold, such as until it's acquired by **n** subj, don't remove it from the age dictionary.
+        - After threshold met, do not include it in future run-throughs
