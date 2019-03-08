@@ -14,10 +14,10 @@ __Format of transcript files:__
     
 
 ## Needed Data:
-  ### 1. # of utterances in transcript
-  ### 2. # of words in transcript
-  ### 3. # of word-types in transcripts:
-      - aka # of different words
+  ### 1. &#35; of utterances in transcript
+  ### 2. &#35; of words in transcript
+  ### 3. &#35; of word-types in transcripts:
+      - aka &#35; of different words
       - "types and tokens"
       - DO include if it's a verb, noun, etc. as a property as well. (helps for task 2)
   ### 4. Timestamps of each type
@@ -94,14 +94,14 @@ When it comes to sorting through
     - TRANS `[S]`
  4. Subject's Transcript Node `[S]`
     No work is done for this! Just storage for right now
-    - # utterances
-    - avg # words per each utterance *(for organization/ease, will be calculated elsewhere?)*
+    - &#35; utterances
+    - avg &#35; words per each utterance *(for organization/ease, will be calculated elsewhere?)*
     
-    - # words in transcript
-    - # unique words *(can leave skeleton initially, maybs thing for task 2? or task 2 = optimized)*
+    - &#35; words in transcript
+    - &#35; unique words *(can leave skeleton initially, maybs thing for task 2? or task 2 = optimized)*
     
-    - # different tokens
-    - # different word types
+    - &#35; different tokens
+    - &#35; different word types
  5. 
     
  
