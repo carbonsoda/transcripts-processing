@@ -82,10 +82,27 @@ When it comes to sorting through
  
  1. Interface `[G]`
  2. Processing `[F]`
+    - Import File
+    - Removes all rows with `[speechx]` + `[vocplayx]`
+        - need to clarify what these indicators mean
+            - seems like `[vocplayx]` = space, as in pause or like vocalizing w/o meaning? like `uhhhhhhh`
+    - 
  3. Subject Node `[S]`
     - ID (ie AF09)
     - NO (Number, such as in the sublist *(is this needed though?)*
     - Age (`N`mos)
+    - TRANS `[S]`
+ 4. Subject's Transcript Node `[S]`
+    No work is done for this! Just storage for right now
+    - # utterances
+    - avg # words per each utterance *(for organization/ease, will be calculated elsewhere?)*
+    
+    - # words in transcript
+    - # unique words *(can leave skeleton initially, maybs thing for task 2? or task 2 = optimized)*
+    
+    - # different tokens
+    - # different word types
+ 5. 
     
  
 # Task 2:
