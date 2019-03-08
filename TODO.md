@@ -51,9 +51,9 @@ When it comes to sorting through
 - Where will I export the sorted info?
 - **1st time setup:**
     1. IF 
-        1-1. HomeDirect = None 
-        1-2. OR HomeDirect inaccessible (returns invalid/false existence)
-        1-3. then request
+        1. HomeDirect = None 
+        2. OR HomeDirect inaccessible (returns invalid/false existence)
+        3. then request
             - Should probably create way that checks if given directory is correct
             - CHECKS syntax, and corrects as needed
                 - wrong direction slashes, spaces in any part
