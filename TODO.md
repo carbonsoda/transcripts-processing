@@ -40,14 +40,13 @@ __Format of transcript files:__
 Having an application would be best to go with goal 2, however it would be good to just focus on something modular working like goal 1 that can run in terminal, before creating the user-end stuff.
 When it comes to sorting through 
 
-### When it comes time to user-end:
+## When it comes time to user-end:
 - First-Time Setup area
     - Directions
     - Error message directions
 - Regular area:
   - Text boxes + 
-
-## Back-end:
+### Back-end/User-end mixed 
 - Where will I export the sorted info?
 - **1st time setup:**
     1. IF 
@@ -77,8 +76,18 @@ When it comes to sorting through
         - IF (`no_specified_age`): *ie first time run or want overall average* (`check_all_existing`) = False: 
             > *check_all_existing sees if all parts have files, if not 
     - IF 
-
-
+    
+ ## Back-end:
+ > *KEY: `[S]` = a structure `[F]` = work `[G]` = GUI*
+ 
+ 1. Interface `[G]`
+ 2. Processing `[F]`
+ 3. Subject Node `[S]`
+    - ID (ie AF09)
+    - NO (Number, such as in the sublist *(is this needed though?)*
+    - Age (`N`mos)
+    
+ 
 # Task 2:
 > Related to the above, task 2 is to create a dictionary of words in all transcripts. The lab will use this document to create documentation of the property of each word. There will be a seperate document for each age of aquisition.
 
@@ -87,12 +96,7 @@ When it comes to sorting through
     - 2nd time some care will be needed to swap words with root types
         - This will need the use the word's tag (ie `[v] [n] [adj]` *verb noun adjective*) to determine
         - Some care and maybe human word will be needed to generate base words, such as `fish` used as a noun vs verb
+*NOTE:* You do not need to do an age of acquisition function sorting thing (threshold etc), that will be done with RA's with existing theories but it's an idea for smth to include in future!
 
 ## Task 2.5:
 > This is a third task that ties in with the 2nd, "create a program that you can enter a word and the output is a detailed documentation of who said the word and when/timestamp.
-
-3. Similar to the "age of aquisition" wording in 2, I should consider if another function is needed regarding that:
-    - f(x) would do the same as 2, except would denote the first time it's acquired (and by how many subj)
-        - For efficency, would use what's already generated in task 2 (or 1 sorta) vs entire scan through
-    - Also ask about a threshold, such as until it's acquired by **n** subj, don't remove it from the age dictionary.
-        - After threshold met, do not include it in future run-throughs
