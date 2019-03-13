@@ -1,0 +1,45 @@
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code | Markdown Cheatsheet · adam-p/markdown-here Wiki
+https://github.com/carbonsoda/transcripts-processing | carbonsoda/transcripts-processing
+https://www.google.com/search?q=python+backslash+in+string+path&rlz=1C1CHBF_enUS839US839&oq=python+backslash+in+stri&aqs=chrome.2.0j69i57j0l4.6070j0j7&sourceid=chrome&ie=UTF-8 | python backslash in string path - Google Search
+https://pandas.pydata.org/pandas-docs/stable/reference/frame.html | DataFrame — pandas 0.24.1 documentation
+https://docs.python.org/3/library/os.html#os.open | os — Miscellaneous operating system interfaces — Python 3.7.3rc1 documentation
+https://docs.python.org/3/library/stdtypes.html#str.join | Built-in Types — Python 3.7.3rc1 documentation
+https://stackoverflow.com/questions/19932130/iterate-through-folders-then-subfolders-and-print-filenames-with-path-to-text-f | python 2.6 - Iterate through folders, then subfolders and print filenames with path to text file - Stack Overflow
+https://stackoverflow.com/questions/3204782/how-to-check-if-a-file-is-a-directory-or-regular-file-in-python | how to check if a file is a directory or regular file in python? - Stack Overflow
+https://docs.python.org/3.7/library/os.path.html | os.path — Common pathname manipulations — Python 3.7.3rc1 documentation
+https://docs.python.org/3.7/library/pathlib.html#module-pathlib | pathlib — Object-oriented filesystem paths — Python 3.7.3rc1 documentation
+https://stackoverflow.com/questions/19587118/iterating-through-directories-with-python | directory - Iterating through directories with Python - Stack Overflow
+https://anh.cs.luc.edu/python/hands-on/3.1/handsonHtml/io.html | 1.10. Input and Output — Hands-on Python Tutorial for Python 3.1
+
+https://stackoverflow.com/questions/41570359/how-can-i-convert-a-py-to-exe-for-python | How can I convert a .py to .exe for Python? - Stack Overflow
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links | Markdown Cheatsheet · adam-p/markdown-here Wiki
+https://code.visualstudio.com/Docs/editor/versioncontrol | Version Control in Visual Studio Code
+https://github.com/carbonsoda/Scripts-to-Dict/blob/master/sort.py | Scripts-to-Dict/sort.py at master · carbonsoda/Scripts-to-Dict
+https://pandas.pydata.org/pandas-docs/stable/reference/series.html | Series — pandas 0.24.1 documentation
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.iterrows.html#pandas.DataFrame.iterrows | pandas.DataFrame.iterrows — pandas 0.24.1 documentation
+https://stackoverflow.com/questions/16476924/how-to-iterate-over-rows-in-a-dataframe-in-pandas | python - How to iterate over rows in a DataFrame in Pandas? - Stack Overflow
+https://stackoverflow.com/questions/1712227/how-to-get-the-number-of-elements-in-a-list-in-python | How to get the number of elements in a list in Python? - Stack Overflow
+https://stackoverflow.com/questions/2918362/writing-string-to-a-file-on-a-new-line-every-time | python - Writing string to a file on a new line every time - Stack Overflow
+https://docs.python.org/3/tutorial/inputoutput.html | 7. Input and Output — Python 3.7.2 documentation
+
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet | Markdown Cheatsheet · adam-p/markdown-here Wiki
+https://github.com/carbonsoda/transcripts-processing/blob/master/1Sort/main.py | transcripts-processing/main.py at master · carbonsoda/transcripts-processing
+
+https://pandas.pydata.org/pandas-docs/stable/getting_started/dsintro.html?highlight=list%20list | Intro to Data Structures — pandas 0.24.1 documentation
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.transform.html?highlight=transform#pandas.DataFrame.transform | pandas.DataFrame.transform — pandas 0.24.1 documentation
+
+https://datatofish.com/read_excel/ | How to Import an Excel File into Python using pandas - Data to Fish
+https://datatofish.com/use-pandas-to-calculate-stats-from-an-imported-csv-file/ | Use Pandas to Calculate Stats from an Imported CSV file - Data to Fish
+https://github.com/bcdev/jpy | bcdev/jpy: A bi-directional Python-Java bridge used to embed Java in CPython or the other way round.
+https://stackoverflow.com/questions/7856296/parsing-csv-tab-delimited-txt-file-with-python | Parsing CSV / tab-delimited txt file with Python - Stack Overflow
+
+https://github.com/carbonsoda/transcripts-processing/blob/master/TODO.md | transcripts-processing/TODO.md at master · carbonsoda/transcripts-processing
+https://notebooks.azure.com/averym | averym - Microsoft Azure Notebooks
+https://stackoverflow.com/questions/35254852/how-to-change-the-jupyter-start-up-folder | path - How to change the Jupyter start-up folder - Stack Overflow
+
+https://www.google.com/search?q=how+to+record+brainstorming+github+jupyter+vs+markdown&rlz=1C1CHBF_enUS839US839&oq=how+to+record+brainstorming+github+jupyter+vs+markdown&aqs=chrome..69i57.10008j0j9&sourceid=chrome&ie=UTF-8 | how to record brainstorming github jupyter vs markdown - Google Search
+https://resources.github.com/downloads/development-workflows-data-scientists.pdf | Development Workflows for Data Scientists
+http://cs109.github.io/2015/ | CS109 Data Science
+https://blog.jupyter.org/rendering-notebooks-on-github-f7ac8736d686 | Rendering Notebooks on GitHub – Jupyter Blog
+https://code.visualstudio.com/docs/python/jupyter-support | Working with Jupyter Notebooks in Visual Studio Code
+https://code.visualstudio.com/docs/getstarted/tips-and-tricks | Visual Studio Code Tips and Tricks
