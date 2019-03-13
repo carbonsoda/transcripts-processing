@@ -1,27 +1,27 @@
 """ 
 No work is done for this! Just storage for right now
-    - # utterances
-    - avg # words per each utterance 
-    - # words in transcript
-    - # unique words *(can leave skeleton initially, maybs thing for task 2? or task 2 = optimized)*
-    - # different tokens
-    - # different word types
 """
-class SubTransN(ID):
-        
+class SubTransN:
+    
+    # Everything will be a number
     def __init__(self, subjectID):
         self._ID = subjectID # Is this needed?
-        self.utter = None
-        self.utteravg = None
-
-        self.wordcount = None
-        self.wordcountunique = None
+        self.utter = 0
         
-        self.tokens = None
-        self.types = None
-
-    # I think everything will be a number?
-    def getutterances(self):
+        self.tokens = 0
+        self.tokensavg = 0
+        
+        self.types = 0
+        self.typesavg = 0
+    
+    
+    # TYPE:
+    # 0 = utterance
+    # 1 = tokens
+    # 11 = tokens avg/utterance
+    # 2 = types
+    # 22 = types avg/utterance
+    def getter(self, type):
         return self.utter
     def setutterances(self, utterances, wordscount):
         pass
@@ -33,22 +33,24 @@ class SubTransN(ID):
     def setutteranceaverage(self, utterances):
         pass
 
-    def getwordcount(self):
-        return self.wordcount
-    def setwordcount(self, wordcount):
-        self.wordcount = wordcount
-    def getwordunique(self):
-        return self.wordcountunique
-    def setwordsunique(self, uniquewords):
-        self.wordcountunique = uniquewords
-
     def gettokenscount(self):
         return self.tokens
     def settokenscount(self, tokens):
         self.tokens = tokens
+    
+    def gettokenanceaverage(self):
+        pass
+    def settokenaverage(self, utterances):
+        pass
 
     def gettypecount(self):
         return self.types
     def settypecount(self, typecount):
         self.types = typecount
+    
+    def gettypeanceaverage(self):
+        pass
+    def settypeaverage(self, utterances):
+        pass
+    
 

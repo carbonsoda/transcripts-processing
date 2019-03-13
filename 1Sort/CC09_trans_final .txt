@@ -1,0 +1,342 @@
+0.073214	0.523478	who's that
+2.064625	2.504481	who's that
+4.407463	4.996833	who's that
+6.475749	7.735024	is that a bunny rabbit
+8.734390	9.964380	there's a kitty cat
+11.304190	12.644000	and that's see the baby
+13.960016	14.704965	see the baby
+15.116792	16.528030	baby give you kisses hmm 
+17.062445	18.438227	baby give you kisses hmm
+22.227669	23.025698	there's a family
+23.483283	27.455125	there's a daddy and a mommy and a baby boy and a baby girl
+29.893140	32.697223	[vocplayx]
+34.501940	36.108980	[vocplayx]
+36.332282	37.313345	do you want to eat the book
+37.547629	39.257168	[vocplayx]
+39.897787	40.985010	there's the bigbird
+41.215633	42.160090	there's the bigbird
+55.949884	57.615494	there you go
+69.003880	69.399234	peekaboo
+71.174665	71.734750	peekaboo
+73.393039	74.180086	peekaboo
+81.234223	82.530105	where's [childname]
+82.764389	83.946789	there she is
+89.851472	91.216906	are you banging your rattle
+92.168684	93.135104	bang your rattle
+93.343763	94.822679	bang bang bang
+95.719547	98.102652	bang bang bang bang your rattle
+100.236830	101.942709	there's not one for mommy to bang
+103.355732	104.959112	there's not one for mommy to bang
+119.546934	120.941655	look at all the noise you can make
+122.541373	124.481536	look at all the noise you can make
+140.090689	141.528252	bigbird's gonna get you
+141.636303	143.253520	 [vocplayx]
+143.773337	145.367941	bigbird's gonna get you
+145.452839	146.155174	 [vocplayx]
+149.055703	150.465066	you like the chicky rattle
+151.654788	153.408255	you like the chicky rattle
+161.395866	163.152994	go find out what else is in the box
+164.331734	166.140112	gonna go see what else is in the box
+166.857605	168.190094	what else is in the box
+169.793473	170.983196	do you need help
+174.881823	175.467533	look
+175.613960	176.803682	see what else is in there
+184.816918	186.178692	what else is in that box
+189.806429	191.091329	can you get something out
+193.335328	194.598263	you gotta stand up huh
+194.686120	195.861199	can you get something out
+198.053949	200.213752	[speechx]
+200.433393	201.322939	you want the donuts
+209.090909	210.580807	say i want to eat the donuts
+210.884643	212.209811	i want to eat the donuts
+213.256766	214.032831	can you get one off
+214.651487	215.460498	they come off
+216.679505	217.649586	they come off
+219.263948	220.288939	can you take it off
+221.661695	222.154012	almost
+222.242769	222.883360	can you take it off 
+222.933527	223.253823	look
+223.854444	224.776937	it comes off
+225.285772	226.347370	can you take it off
+237.677185	238.625302	can you take it off
+246.140684	248.227274	oh just want they want you coughing all over their toys
+249.424317	250.456630	can you take it off of there
+252.136884	252.920270	[childname] look
+253.125268	253.549907	look
+257.089788	258.700489	you can get something out of the box
+260.475920	261.186093	look look
+262.928578	263.759553	look it here
+263.946248	264.996864	they come off
+265.597216	266.677118	they come off
+266.764974	267.661841	come off
+267.731394	268.917456	and put them back on
+268.987009	269.876555	move your fingers
+271.216365	271.996090	there you go
+272.087608	273.079653	can you take one off
+275.554275	276.667122	can you take it off
+278.449875	279.548080	can you take it off
+289.186659	290.676557	you gonna chew on the donuts
+291.804048	292.646005	take one off of there
+315.748577	317.190886	ah what are you doing
+321.235942	322.473252	mommy's got bigbird
+324.519574	325.767867	you gonna taste everything
+325.943580	326.631789	[speechx]
+327.250444	328.150972	[speechx]
+347.113312	347.336613	buh
+349.470792	349.825878	buh
+352.695854	354.108878	box you gonna get the box
+354.350483	355.463330	what else is in the box
+356.268681	357.352243	what else is in the box
+359.519367	360.467730	you want the puppy dog
+360.540698	361.437566	woof woof woof woof
+366.533237	367.426443	woof woof woof woof
+367.924296	368.887056	woof woof woof woof
+369.549640	370.673469	woof woof woof woof
+371.412928	372.569703	there's the puppy dog
+375.282270	376.808775	where's the puppy dog
+378.126621	379.527254	where's the puppy dog
+379.620179	381.564002	there he is yeah
+381.670162	383.075865	can you get there he is
+383.166276	384.707424	yay [childname]
+385.125847	387.648058	where's the puppy dog
+389.170902	390.825531	where's the puppy dog
+393.933451	394.782730	there he is
+394.877907	397.114585	yay [childname]
+409.963583	411.486428	oh you found a tag
+412.375974	413.621381	oh you found a tag
+413.679266	414.879881	let's don't eat the tag
+415.699874	416.992095	let's don't eat the tag
+423.943733	424.624620	ah
+425.565416	426.165768	what
+427.117545	428.592801	boop boop boop boop bigbird
+428.680657	430.148591	boop boop boop boop bigbird
+430.225465	431.733667	boop boop boop boop bigbird
+435.361404	436.847641	boop boop boop boop bigbird
+437.308888	438.809768	boop boop boop boop bigbird
+438.992802	440.302399	boop boop boop boop bigbird
+440.371861	441.302693	do you want big bird
+441.529655	443.674816	aw you gonna love bigbird
+446.123813	447.243982	you want my shoe
+447.372106	448.829058	no you want bigbird's toe
+450.432437	451.852782	mhm you want bigbird's toe
+452.401885	453.672142	mama's nose itches
+459.675663	460.535923	what are you doing
+460.605476	461.667074	did you get a donut
+462.168588	463.387595	did you get a donut
+464.826244	465.740824	let's turn around this way
+465.864311	466.868905	did you get a donut
+477.360947	478.514062	do you have the puppy dog
+478.575770	479.908259	what does the puppy dog say
+479.970491	481.720297	does the puppy dog say woof woof woof
+482.064402	483.096714	woof woof woof
+484.436524	485.151515	ruff ruff
+485.367619	486.230259	ruff ruff
+494.254477	496.682161	do you like the puppy dog or just the puppy dog's tag
+497.194006	497.816322	hmm
+498.566762	501.140222	do you like the puppy dog or just the puppy dog's tag
+502.267713	503.157259	yeah
+505.481793	506.971691	oops where'd he go
+508.952120	509.874613	you lost him
+512.034416	513.213156	there you go
+514.296718	515.984293	you gonna chase him around the room
+517.503477	518.012312	[vocplayx]
+519.579084	521.047018	you gonna chase him around the room
+528.657579	530.553813	big spit bubble that was attractive
+530.832025	532.940578	big spit bubble that was attractive
+535.290737	536.604922	puppy dog's head
+538.277854	539.793377	what color is the puppy dog
+540.477925	540.994878	hmm
+541.078277	542.546211	is he black and white and brown
+543.684684	544.487259	here we go
+544.545144	546.477785	 we're chasing the puppy dog all over the room
+546.796264	547.345367	come here
+547.575990	548.106789	come here
+549.003656	549.768739	look over here
+550.424002	551.419707	come back over here
+552.129880	553.007897	come back over here 
+553.085076	553.532718	come on
+555.241461	556.303059	there you go
+563.518266	564.814148	did you find a book
+566.322349	569.067862	well you're just determined to go sit the other direction aren't you
+569.917140	570.828650	turn around
+578.483139	579.921788	where we going
+590.837945	591.643295	ah
+595.867724	596.965929	did you find the book
+599.136714	600.399650	did you see the family
+601.194018	602.310281	you see the family
+602.364307	604.865684	its almost like your family there's just one more little boy
+614.218729	615.818448	[vocplayx]
+621.950093	623.732845	row the boat row the boat
+626.288002	626.950586	okay
+629.110389	630.695465	no obstacle courses
+631.182336	632.286872	no obstacle courses
+632.364736	634.740520	they can't see you if you're hidden under the chair
+636.457380	637.877726	you see the kitty cat
+637.932636	638.536649	come here
+641.271179	641.907320	there you go
+642.034666	642.603668	stay here
+643.229645	643.914192	whoops
+644.331510	645.457585	mommy lost all the donuts
+645.523188	646.333904	one
+647.161218	648.636474	two
+649.412539	650.415566	three
+650.679135	651.704126	four
+652.754742	655.441684	five donuts
+656.763191	657.509193	can you take them off
+657.568541	659.014511	mommy put them all back on
+669.304692	670.102721	you're determined
+670.155085	671.563333	you're gonna go chase it aren't you
+672.090472	672.752182	bring it this way
+672.815287	673.250908	come here
+673.616594	674.538891	can you go this way with it
+674.662379	675.218073	oh no
+675.286248	676.128205	we see a table
+677.039513	677.691682	oh no
+677.761143	678.456400	we see a table
+680.213528	681.542356	the table looks like fun
+681.941370	683.434929	the table looks like fun
+683.848586	685.378752	the table looks like fun
+689.076042	690.298710	here's bigbird
+690.569601	691.722716	we gonna love bigbird
+693.926448	695.240633	you gonna play with your chicky
+697.587131	699.143776	see what else is in the box
+699.208814	700.720676	wanna get something out of the box
+701.661471	702.598606	there's a bert
+703.118423	704.110468	there's a bert doll
+704.564393	706.735178	and a little baby doll and a horse
+711.702726	712.749681	you like the chicky
+713.869850	715.077522	you like the rattling chicky
+715.132786	716.619023	oh you gonna eat the chicky
+724.493153	725.130112	what
+743.792275	745.018604	you have the puppy dog
+745.512797	747.193050	the puppy dog and his tag
+749.685976	751.538281	you gonna eat the puppy dog's tag
+753.723709	755.004948	there's the chicky
+756.773058	757.860281	chicky chicky
+760.572848	761.235431	yeah
+761.564893	762.520331	is that fun
+766.503155	768.080909	chicky makes all kinds of noise
+770.200445	772.298016	we need a weeble wobble chicky huh
+773.330329	775.105760	we need a weeble wobble chicky
+776.020931	778.173413	see if we can find a weeble wobble chicky
+781.482671	784.356307	weebles wobble but they don't fall down
+785.344692	786.713787	weeble wobble chicky
+787.720475	788.511183	that bigbird
+790.246347	791.333569	you gonna get bigbird
+792.640433	793.831675	bigbird's gonna give you a kiss
+793.874084	795.078448	[vocplayx]
+796.462187	798.054584	bigbird gonna give you a kiss
+802.348565	804.247074	bigbird's got hair kind of like [othername]
+804.402209	805.921392	[othername]'s just got more hair huh
+807.883519	810.710873	bigbird bigbird
+810.838220	812.011351	[vocplayx]
+812.927940	813.747933	where you going
+815.573193	816.827363	did you find the truck
+817.714930	818.606355	did you find the truck
+818.660381	820.620745	i don't know if we're supposed to play with the truck or not
+820.983489	823.194687	i don't know if we're supposed to play with the truck or not
+825.506219	826.416939	okay come here
+826.482542	827.327660	we'll get it out
+830.160154	830.989836	there's the truck
+834.852679	837.306993	vroom vroom vroom 
+838.040200	838.900754	toot toot
+839.560640	840.482937	toot toot
+842.022672	843.500663	go truck go truck
+854.024114	855.803105	you see bigbird up there on the wall
+857.420020	859.241461	are you gonna go try to get bigbird
+860.109732	862.853470	maybe something else will catch your interest before you get over there
+863.991870	865.303925	bah bah bah bah bah
+865.589490	866.998019	you gonna eat the donuts 
+868.202022	869.645282	you gonna eat the donuts
+871.868057	873.438664	are you looking at the clock
+874.407269	876.467967	can you here the clock making ticking noises
+876.741955	879.462539	tick tick tick tock tick tock tick tock 
+880.161015	881.666019	tick tock tick tock 
+884.344154	885.332054	tick tock tick
+887.126482	887.905996	what
+890.387323	891.155261	ah
+893.250690	894.589757	do you see the clock up there
+897.418393	898.236498	[vocplayx]
+898.556793	900.208439	you got them off of there now
+901.150031	902.743791	yeah you did
+904.136885	904.758181	you did
+913.494922	915.169721	here we go adventuring again
+915.860479	917.400214	you're not following the rules
+918.183588	919.503360	you're not following the rules
+919.565104	921.390404	the rules say we're supposed to stay on the mat 
+922.760343	924.643528	the rules say we're supposed to stay on the mat 
+925.156773	927.059252	the rules say we're supposed to stay over here
+929.629335	931.253968	yeah that's what the rules say
+933.013665	934.414476	that's what the rules say
+935.302043	936.293802	can i wipe your nose
+942.595523	943.301717	[childname]
+943.506243	944.262604	[childname] look
+944.841452	945.397146	bigbird
+945.516774	946.404341	in the box
+947.550459	948.538359	where'd bigbird go
+949.190527	950.062658	where'd bigbird go
+950.745698	952.273856	bird yes bird 
+952.405061	953.292628	do you see bigbird
+955.222120	956.345084	there's bigbird
+957.390869	958.201256	can't get it
+959.270194	959.960953	can't get it
+960.505069	961.311597	can't get it
+962.372818	963.522795	there's bigbird
+966.783637	967.590165	can't get it
+967.871871	969.917132	that box kind of slides on you doesn't it 
+970.399505	971.985548	and now we’re on top of the chicky monster 
+973.934335	975.786648	boop boop boop bigbird 
+981.223957	982.146254	turn around this way
+983.689848	984.330439	bigbird
+987.433062	988.158551	bigbird
+990.574276	992.171895	is bigbird petting the chicky 
+993.225398	994.734261	is bigbird petting the chicky 
+995.791623	997.277332	is bigbird petting the chicky 
+997.362229	998.654989	can bigbird pet the chicky
+999.033169	1000.472571	nice chicky
+1000.680956	1002.012305	nice chicky
+1006.469432	1007.098447	[childname]
+1007.526794	1008.132655	[childname]
+1008.873580	1009.413837	[childname]
+1009.838326	1010.490494	[vocplayx]
+1013.353860	1014.731518	[vocplayx] 
+1017.344050	1018.787310	[vocplayx] 
+1029.218145	1030.267789	[vocplayx] 
+1033.555644	1034.844544	[vocplayx]
+1035.616341	1036.847357	do you think that's funny
+1037.526539	1038.892619	did you think that's funny
+1042.913681	1044.534454	[vocplayx]
+1044.750557	1046.707062	[vocplayx]
+1052.923886	1054.548519	can you get bert out of there 
+1056.327510	1057.709027	can you get bert out of there
+1061.869012	1063.555388	what if mommy holds it where it doesn't slide
+1076.305473	1076.976936	there you go
+1077.038680	1077.636822	get him out
+1079.705238	1080.866792	there you go
+1081.179370	1082.935208	yay [childname] you got bert
+1083.764889	1084.467224	get him out
+1084.606148	1085.852600	there you go
+1086.967846	1088.009772	did you get bert
+1088.117824	1089.630546	did you get bert
+1089.711584	1090.753510	yes you did
+1094.562328	1096.071190	is there a dolly in there
+1113.008273	1114.605892	are you gonna play with the box now
+1116.230525	1118.055824	are you gonna play with the box now
+1119.028289	1120.652921	kind of cold in here huh 
+1121.135294	1122.439631	kind of cold in here huh 
+1122.976030	1123.689942	hey look
+1123.963930	1125.418767	there's a there's a cow
+1125.796947	1131.577706	hey diddle diddle the cat and the fiddle the cow jumped over the moon 
+1132.013771	1136.922399	the little girl laughed to see such sport and the dish ran away with the spoon
+1138.296198	1143.590724	hey diddle diddle the cat and the fiddle the cow jumped over the moon
+1145.485485	1147.978389	the cow jumped over the moon
+1155.271870	1156.950528	moo
+1157.618132	1159.204175	moo
+1159.701984	1160.323280	oops
+1160.875115	1162.295221	he fell in the box
+1165.201037	1166.540104	he fell out that time
+1167.037913	1168.276647	moo
+1171.001090	1172.154926	moo
+1174.327535	1175.724487	moo
+1177.665556	1178.518392	moo
+1180.536640	1181.613297	moo

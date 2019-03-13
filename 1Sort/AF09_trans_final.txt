@@ -1,0 +1,338 @@
+0.013665	1.801039	and go like this
+2.839574	3.446297	there you go 
+3.957366	4.596885	that's what they do 
+5.605357	6.586499	and then you take them 
+7.489752	7.890134	there you go 
+10.367587	10.888222	there you go 
+12.864171	13.330146	there you go
+13.630774	14.360482	take that off
+17.250616	17.768517	can you get it 
+19.406943	20.408583	is that the red donut 
+21.300903	22.540313	get the red donut up there
+23.142937	24.927577	woah ponk
+30.998909	32.323041	what was that look for
+33.291885	34.893416	say that was a silly look 
+37.637335	38.235859	what's in there
+39.275761	40.079259	what are you gonna get 
+41.232580	42.066141	what are you gonna get 
+43.071880	43.746928	what color is that 
+43.956002	44.527196	is that red
+45.259637	45.896423	is that red 
+46.366496	46.984152	is that red
+48.045917	48.827552	is that red 
+49.904349	50.735177	is that red
+50.798035	52.473357	[vocplayx]
+62.820447	64.301726	you have one like that too
+65.944251	68.108777	[vocplayx]
+72.761688	73.966935	[vocplayx]
+74.767701	75.359393	what is that
+75.506974	76.104132	is that a rattle
+76.292708	77.097572	look at that rattle
+78.291888	78.741464	[vocplayx]
+79.498502	80.871828	you got [childname]'s head
+81.911730	83.268658	you got [childname]'s head
+84.323591	84.800497	here you go 
+87.745291	88.580219	is that orange
+88.964203	90.619027	say orange donut 
+91.291342	92.499323	say orange donut 
+93.751031	95.620394	can you put that donut on your head 
+97.133103	97.847779	say so big
+101.503149	102.265653	say so big
+106.162893	107.450130	say so big 
+108.111513	109.177378	so big
+110.563002	111.380165	give me that donut
+111.453956	112.232858	[vocplayx]
+113.183937	119.046195	[vocplayx]
+120.133924	121.227119	put it back on your head 
+122.098942	123.361582	you got a donut on your head
+124.408316	127.748027	[vocplayx]
+136.775084	137.504791	do you hear that rattle
+138.089651	139.283966	say so big 
+139.846961	140.716051	so so big
+143.528295	144.061228	hi
+147.564918	148.297358	does that make some noise
+148.365683	149.051663	what else is in there
+149.885224	150.940157	what else do you see
+152.309384	155.572571	ooh yeah this is [speechx]
+159.874293	161.060409	is that a cool toy 
+162.782191	163.457239	[speechx]
+168.439475	169.852429	what else is in there you wanna get out 
+192.593617	194.088561	the rattle matches your outfit
+194.780007	195.646364	red white and blue
+210.221385	211.276318	going for the yellow
+211.817450	212.962571	no that's a green
+213.686813	214.933055	i'm going for the green 
+215.452323	216.149235	[vocplayx]
+217.592252	218.472274	can you put it back on 
+219.114526	219.581867	almost 
+220.382632	221.074078	almost
+221.341911	222.224665	here you go try again
+225.941528	226.217560	nope
+231.992362	233.664950	[vocplayx]
+235.138031	236.458063	[vocplayx]
+236.870745	238.395751	[vocplayx]
+239.893429	241.336446	[vocplayx]
+242.571756	244.487580	[vocplayx]
+246.529122	247.950275	[vocplayx]
+249.308570	250.702393	[vocplayx]
+252.853254	255.105236	[vocplayx}
+255.181760	256.160169	you smelly belly
+256.982798	258.671784	[vocplayx]
+259.838770	261.639809	[vocplayx]
+263.189412	263.517371	[vocplayx]
+266.078180	266.868013	[vocplayx]
+270.041012	271.339181	[vocplayx]
+275.449594	276.201165	not interested 
+276.520925	277.127648	here's the green one
+278.502340	279.087200	here you go 
+284.129561	285.189960	i'm sleepy
+287.217837	288.513273	what else is in the basket
+290.951098	291.986900	there's other stuff in there
+292.273864	293.667687	there's a bigbird in there
+294.616034	295.460527	there's a bigbird
+296.335083	296.881680	what is that 
+297.267031	298.707316	is that the blue donut 
+299.565474	300.893706	is that the blue donut
+300.994826	301.760063	can you put that back on
+302.774001	304.747218	yay
+305.285616	306.307754	you almost did it
+307.553996	309.346835	now what are you going to do with all that stuff 
+315.591711	316.373346	what else is in there 
+317.398216	318.625327	you see anything [speechx]
+322.038829	322.724808	stack them back up
+322.913385	323.255008	watch
+323.714150	324.359135	watch mama
+325.725628	327.720709	blue [speechx]
+332.711144	333.498244	you gonna put it on
+333.755145	334.919398	whoops here you go 
+340.005487	341.030358	no okay
+344.853807	345.452331	here look 
+346.411610	347.236972	it's a little girl 
+348.376627	348.597999	[vocplayx]
+349.688461	350.450965	a little girl 
+350.880044	351.809260	she's a dancer
+352.722077	353.602099	is she dancing
+354.378268	355.455065	can you make her dance
+358.772911	359.497153	what else is in there
+360.923772	362.183679	you see anything else in there
+362.579963	363.984718	i spy a cow
+364.744489	366.643915	and i spy another cow
+366.889884	367.463811	and a hat 
+369.661133	371.716339	you don't like hats very much anymore
+375.580783	376.310491	off with the hat
+377.174115	377.860095	can i wear the hat
+378.147058	378.406692	[childname]
+380.571218	381.339188	mama's gonna wear the hat 
+382.301199	383.036373	[vocplayx]
+383.148425	383.883599	can mama wear the hat
+384.315411	385.080647	[vocplayx]
+393.058237	393.760615	[childname] wears the hat 
+398.693657	399.385103	mama wears the hat
+401.850257	402.653756	I got the hat on
+403.891799	405.004125	[speechx]
+405.791225	406.548263	[childname] wears the hat
+413.528312	413.938260	to mama
+414.069444	415.318419	okay mama wears the hat
+417.094861	417.605929	[speechx]
+423.755151	424.465728	[childname] wears the hat
+427.242443	427.824569	to mama
+428.554277	429.797786	okay mama wears the hat 
+430.852719	431.352856	[speechx]
+434.555917	435.955206	you took mamas hat off
+436.917218	437.239710	boom
+440.308855	440.645013	boom
+444.662504	445.315688	you want mama to wear it 
+445.427740	446.690381	okay mama wears the hat
+451.322794	452.126292	what do you think about that 
+454.736295	456.447145	play with all these toys over here
+462.200084	463.126566	you wanna play with the chicken 
+471.861194	472.850535	can you get the red donut 
+477.786310	478.860374	[speechx]
+483.831678	485.446874	you keep going for the yellow 
+485.605387	487.704321	I think yellow's your favorite color
+488.510553	490.366251	i think yellow's your favorite color 
+492.112630	493.700496	yeah let's see [speechx]
+495.517932	496.335095	look at this guy
+500.808996	501.399321	can you play with that 
+507.097599	507.704323	who's that 
+509.519026	510.043760	[speechx]
+511.082295	511.680819	he's funny
+512.279343	513.055512	he's funny
+523.760623	524.413807	can you stand up 
+525.859557	526.417087	stand up
+527.988555	528.280984	no
+528.576147	529.983635	you're sitting on the red donut
+531.191616	531.601564	uhoh
+536.015338	537.922963	let's put the hat on bigbird 
+538.349309	539.273059	bigbird likes hats 
+540.478307	541.013972	okay
+541.885795	542.462455	what are we doing
+543.375273	544.851086	where are we going with all of our stuff
+546.542805	548.076011	where are we going with all of our stuff 
+549.396044	551.333732	[vocplayx]
+552.645566	553.121106	okay
+553.593913	555.129852	he's gotta get back on the mat
+560.716078	561.984184	am i in your way 
+564.083118	565.457811	okay scoot over here
+566.878964	567.288912	here you go 
+579.406978	580.297932	mama's got your pant leg 
+583.558386	585.282901	did you get the hat off bigbird 
+593.003590	593.733298	where you going
+610.188614	611.101432	what are you doing
+616.676726	618.373911	you still want the yellow one 
+626.444423	627.570414	[vocplayx]
+633.274158	633.766096	what's that 
+635.457815	636.201188	does that feel good 
+637.830048	638.783861	what else is in the box
+639.655684	640.300669	what's in there
+646.969158	647.463828	stack them
+649.027097	649.693946	unstack
+651.019445	651.560576	say unstack
+652.861478	653.484600	green
+653.692307	654.979544	took off the green 
+656.335105	657.226059	i got the green 
+658.204469	658.947841	get the blue
+660.625895	661.415729	yellow 
+661.598839	662.938003	your favorite color's yellow 
+675.487881	676.239452	what's the matter 
+689.825132	690.303405	[vocplayx]
+700.256945	701.393867	what do you think of that 
+702.519858	703.607587	what do you think of that hat 
+704.730845	705.348500	put it on here
+707.370911	707.745330	huh
+709.387855	710.147626	[vocplayx]
+711.817481	712.642843	and this one 
+713.618520	714.777306	[vocplayx]
+717.646943	718.854923	[vocplayx]
+721.257219	722.910677	[vocplayx] where's the red one
+723.249567	723.943746	put the red one on 
+725.720188	727.452902	[vocplayx]
+731.300948	732.350415	[speechx]
+733.041861	734.370092	i like to play with this toy 
+760.259681	761.535986	did you get mama's hat
+763.443612	763.946481	who's that
+764.293571	765.102535	is that mickymouse
+765.657331	767.045689	that’s micky micky mickymouse 
+768.280999	769.885263	that's micky micky mickymouse
+771.054981	772.407810	mickey mickey mickeymouse
+779.281273	779.710352	okay
+780.746154	781.508658	gotta stay on the carpet she says
+782.774031	784.758180	[speechx] gotta stay on the carpet
+793.290566	794.309970	i found a mirror
+794.632463	795.720192	who's that baby 
+796.698601	798.059629	who's that baby 
+799.529976	800.082040	look at that 
+801.716366	803.186713	peekaboo
+804.946757	806.356979	peekaboo
+808.947851	810.557580	peekaboo
+812.041592	813.432683	peekaboo
+814.006610	815.299313	peekaboo
+816.936373	818.158018	peekaboo
+824.506747	825.886906	peekaboo
+831.216231	832.410547	peekaboo
+832.716641	834.821042	you're just not into peekaboo this morning
+843.282370	844.107733	am i in your way 
+847.739873	849.264880	[vocplayx]
+855.979830	856.381579	boom
+887.108555	887.510304	boom
+900.844549	901.634383	you're silly 
+925.966169	929.882540	[vocplayx]
+934.586011	937.925721	[vocplayx]
+949.904405	950.839087	[vocplayx]
+954.700798	955.015091	come here 
+955.916977	956.865324	[vocplayx]
+962.230178	963.194922	do you wanna put them up 
+965.400443	965.714737	hold it
+965.911512	966.250402	okay
+967.228812	970.754365	yay where'd the green one go
+971.216240	971.628921	here you go 
+971.825696	972.380493	here's the next one
+973.443625	973.962892	here's the next one
+975.072485	975.840455	here's the next one
+976.285932	976.859859	gonna put it on 
+978.095169	978.521515	put it on
+979.948135	981.227173	you're making a bang noise
+981.382953	982.754913	bang bang bang bang 
+983.402631	984.091343	put it on
+985.832256	987.805473	[vocplayx]
+995.679210	998.158029	[vocplayx]
+1003.394433	1004.659806	i'm going to eat you
+1005.392247	1007.029306	i'm going to eat you for my lunch
+1008.592575	1009.983665	i'm going to eat you for my lunch 
+1020.811761	1021.762841	gonna get bigbird
+1023.312445	1024.085880	there's bigbird
+1024.154205	1024.654341	who's that
+1025.649149	1026.335129	i think that's
+1027.283475	1027.800010	bert
+1028.671833	1029.830619	is that mister bert
+1039.385143	1040.666914	is that a doggy
+1041.295501	1044.096813	is that like [othername] and [othername]
+1044.758196	1045.985307	and [othername]
+1046.135622	1047.144094	and [othername]
+1047.802744	1048.827614	is that like them 
+1049.450735	1050.139448	a doggy 
+1050.456475	1050.833627	woof
+1051.593397	1052.159126	woof woof 
+1052.722121	1054.113212	woof woof woof woof woof 
+1058.015918	1058.696431	who's that 
+1059.844286	1064.064019	say moo
+1065.271999	1066.015371	is that a cow
+1068.179897	1068.986129	where'd it go
+1069.740433	1070.721576	there's your cow
+1072.951693	1075.834995	say moo
+1076.865331	1080.267900	say moo
+1084.801926	1086.168420	oh yeah there's bert 
+1086.892662	1088.037783	you almost got everything out
+1088.119773	1089.038057	you only have one to go
+1090.235105	1091.068666	only have on to go 
+1091.508677	1092.093537	get it out 
+1093.402637	1093.949235	get it out 
+1094.949508	1097.450192	you like empty stuff now all of a sudden
+1098.330214	1098.868612	get it out 
+1100.494740	1101.328301	can you get it 
+1102.170061	1103.265989	it's a big cow
+1103.361643	1104.274461	say moo
+1104.834723	1105.851395	say moo
+1108.630843	1109.363283	where's your cow 
+1109.584655	1110.552133	where's that big cow 
+1113.539288	1114.430242	where's that big cow
+1116.447187	1118.297419	alright where did it go 
+1118.680037	1119.904416	he's looking pretty heavy 
+1128.772959	1130.694250	[vocplayx]
+1130.806302	1132.060743	ooh i don't wanna give you carpet burn 
+1132.336775	1133.577551	i don't wanna give you carpet burn 
+1134.006630	1135.200946	[speechx]
+1135.433250	1136.086434	oh i don't 
+1136.955524	1137.507587	[vocplayx]
+1138.876814	1139.355086	[vocplayx]
+1140.393622	1140.934753	here you go 
+1141.057737	1141.380230	here
+1142.410566	1143.326117	put the green one on 
+1145.097093	1145.490643	off
+1147.567713	1148.010457	on
+1149.464407	1151.978755	yay you put the green one on 
+1152.186462	1152.492556	off
+1154.170611	1155.001439	get off
+1155.135355	1156.264079	i can get off your lap 
+1156.775148	1158.078783	get off mama's lap 
+1159.128250	1159.543664	get off
+1164.285397	1165.195482	that's a curtain 
+1165.430518	1167.354542	we're not supposed to be by the curtain
+1168.119778	1169.497204	we're supposed to be over here
+1170.090262	1172.399636	say [vocplayx] no curtain
+1174.055826	1174.760937	no curtain
+1176.482719	1177.346343	[childname]
+1177.895674	1179.212974	 no curtain
+1179.975477	1180.819970	no curtain
+1181.855772	1182.815051	say no curtain
+1183.246863	1183.643146	look it 
+1184.903053	1187.759025	all these things over here we can play with 
+1189.054461	1190.092996	[vocplayx]
+1191.022212	1191.929564	peekaboo
+1193.905513	1195.392259	[vocplayx]
+1197.769957	1199.303163	we got an empty box don't we 
+1199.576462	1201.478621	oh no we have to get the cow 
+1206.824345	1207.748094	get the cow 
+1208.119780	1209.117321	can you get that cow 
+1211.298245	1212.232926	can you get that cow 
+1212.940770	1215.982585	say moo

@@ -9,4 +9,4 @@ def __init__(self):
     self._ID = None
     self._NO = None
     self._Age = None
-    self.transcript = 
+    self.transcript = None

@@ -1,12 +1,7 @@
-""" 
-Node file for each subject and the respective data
-
-The intention is for this to help sort/navigate to desired data
-Potentially useful to even then for exporting to different file types
-"""
+import pandas as pd
+import numpy as np
 
 def __init__(self):
-    self._ID = None
-    self._NO = None
-    self._Age = None
-    self.transcript = None
+    # Needs to be set on initial run and converted into a raw string too, maybe? would I then concate w/ the name of subject or age?
+    self._path = None
+    self.script = None
