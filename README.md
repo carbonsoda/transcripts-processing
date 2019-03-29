@@ -1,8 +1,8 @@
 > "We have a number of transcripts that need to get processed for various linguistic data
 
 # Goals:
-## 1. Create workflow to process transcripts into usable data
-## 2. Create workflow for non-tech savy person to analyze those transcripts/data
+### 1. Create workflow to process transcripts into usable data ✔
+### 2. Create workflow for non-tech savy person to analyze those transcripts/data
 
 
 
@@ -13,13 +13,13 @@ __Format of transcript files:__
     - File path: `Q:\PSY-LAB\Suanda\Rollins\Nmos\SUBJECT\Data\Transcriptions`
     
 
-## Needed Data:
-  ### 1. &#35; of utterances in transcript
-  ### 2. &#35; of words in transcript
-  ### 3. &#35; of word-types in transcripts:
-      - aka &#35; of different words
-      - "types and tokens"
-      - DO include if it's a verb, noun, etc. as a property as well. (helps for task 2)
+### Needed Data:
+  1. Subject ID
+  2. &#35; of total utterances in transcript
+  2. &#35; of words in transcript (tokens)
+  3. &#35; of diffrent words in transcripts: (types)
+  4. Avg tokens per utterance
+    - DO include if it's a verb, noun, etc. as a property as well. (helps for task 2)
   ### 4. Timestamps of each type
   ### 5. Also it should create list of subjects (`sublist_9mos`):
       - List could be in another file, and the data is structured like a node (hash kinda I guess?), such that `subject` has:
@@ -27,7 +27,7 @@ __Format of transcript files:__
           2. Age (`Folder`)
           3. transcript data (another node, contains points 1, 2, and 3)
  
-## For Goal 1:
+### For Goal 1:
     Order of priorities (what to design/create):
         1. Take in the file and return duplicate of it (make sure can just input file at all)
         2. 
