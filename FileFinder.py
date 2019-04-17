@@ -44,7 +44,6 @@ def txtpathfind():
                     messups.append(file)
                     file.replace(" ", "")
                     master.append(os.path.join(path, file))
-    print(messups)
     gc.collect()
 
     mastertxt = os.path.join(
