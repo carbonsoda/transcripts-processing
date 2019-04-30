@@ -28,17 +28,19 @@ def playtime():
 
 
 # finds and saves resulting list as txt
-def txtpathfind():
+def txtpathfind(naming):
+    folders = naming[0]
+    ext = naming[2]
     master = []
     messups = []
 
     for path, __, __ in os.walk(root):
-        if path.endswith("Transcriptions"):
+        if path.endswith(folders):
             # list of files in the folder
             folderfiles = sorted(next(os.walk(path))[2], reverse=True)
 
             for file in folderfiles:
-                if "_trans_final.txt" in file[-16:]:
+                if ext in file[-16:]:
                     master.append(os.path.join(path, file))
                 elif " .txt" in file[-5:]:
                     messups.append(file)
@@ -48,7 +50,7 @@ def txtpathfind():
 
     mastertxt = os.path.join(
         os.environ["USERPROFILE"],
-        "Desktop") + os.sep + "9master.txt"
+        "Desktop") + os.sep + "9master" + ext
     with open(mastertxt, 'w+') as fp:
         i = 0
         for item in master:
@@ -62,5 +64,32 @@ def txtpathfind():
     # %reset -f
 
 
-txtpathfind()
+def initialinput():
+    while True:
+        tier1 = input(
+            "Is the file in the media OR Data folder? \n Type 'media' for media folder and 'data' for Data folder").lower()
+
+        if tier1 == "data":
+            tier2 = input("Is the file in a subfolder of Data? \n If no, type 'no'.\n If yes, please write ").lower()
+            # I will write it more user friendly later rip
+            if tier2 == "no":
+                break
+            else:
+                # will need to check if .is_file()
+                tier1 = tier1 + tier2
+                break
+        if tier1 == "media":
+            break
+        else:
+            print("I didn't get that, try again please!")
+            continue
+
+    ext = input("What's the file naming convention? \n Example: _trans_final.txt")
+
+    return ()
+
+
+# naming = initialinput()
+naming = tuple("Transcriptions", "_trans_final.txt")
+txtpathfind(naming)
 playtime()
