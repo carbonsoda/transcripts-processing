@@ -17,18 +17,17 @@ def timetemp():
 
 times = timetemp()  # type = dict
 calculated = []  # type = list
-
+punct = '!"#$%&\()*+-./:;<=>?@[\\]^_`{}~'
+transtab = str.maketrans(dict.fromkeys(punct, ''))
 
 def analysis(filepath):
-    punct = '!"#$%&\()*+-./:;<=>?@[\\]^_`{}~'
-    transtab = str.maketrans(dict.fromkeys(punct, ''))
-
-    df = pd.read_csv(filepath,
-                     header=None,
-                     # usecols=[2],
-                     sep="\t",
-                     names=["utter"]
-                     )
+    df = pd.read_csv(
+        filepath,
+        header=None,
+        # usecols=[2],
+        sep="\t",
+        names=["utter"]
+    ).dropna()
     df['utter'] = '|'.join(df['utter'].tolist()).translate(transtab).split('|')
     allutters = df["utter"].str.lower().str.split()
 
