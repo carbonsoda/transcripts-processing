@@ -36,9 +36,9 @@ def txtpathfind(naming):
 
     for path, __, __ in os.walk(root):
         if path.endswith(folders):
-            # list of files in the folder
+            # list of files in the folder, in 'A to Z' alphabetical order
             folderfiles = sorted(next(os.walk(path))[2], reverse=True)
-
+            # sorts through the files for desired extension
             for file in folderfiles:
                 if ext in file[-16:]:
                     master.append(os.path.join(path, file))
